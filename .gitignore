@@ -1,0 +1,15 @@
+﻿# 编译产物
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven / Gradle（以后用）
+target/
+build/
+
+# 操作系统
+.DS_Store
+Thumbs.db
